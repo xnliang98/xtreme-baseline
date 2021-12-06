@@ -1,0 +1,4 @@
+pos_task/data/*
+pos_task/.ipy*/*
+pos_task/__*__/*
+pos_task/runs/*
