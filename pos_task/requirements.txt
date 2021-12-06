@@ -1,0 +1,6 @@
+transformers
+pytorch
+sentencepiece
+seqeval
+tensorboardx
+pyyaml
